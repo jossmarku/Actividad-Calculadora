@@ -8,7 +8,7 @@ public class ActividadCalculadora {
         System.out.println("Universidad Autónoma de Campeche");
         System.out.println("Facultad de Ingeniería");
         System.out.println("Ingeniería en Sistemas Computacionales");
-        System.out.println("4 de mayo de 2021");
+        System.out.println("11 de mayo de 2021");
         System.out.println("Jossmar Oswaldo Ku Cupul");
     }
     
